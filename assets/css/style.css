@@ -1,0 +1,23 @@
+.crystal {
+    height: 80px;
+    width: auto;
+}
+
+.container {
+    background-image: url("https://github.com/brewilde13/week-4-game/blob/master/assets/images/Background.png?raw=true")
+}
+
+.col-md-4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    background-color: rgba(122, 122, 122, .5);
+    text-align: center;
+}
+
+h1 {
+    opacity: 1;
+}
+
+.col-md-3 {
+    background-color: grey;
+}
